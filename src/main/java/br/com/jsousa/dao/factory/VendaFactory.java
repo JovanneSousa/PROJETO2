@@ -11,7 +11,7 @@ import br.com.jsousa.domain.Venda;
 import br.com.jsousa.domain.Venda.Status;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class VendaFactory {

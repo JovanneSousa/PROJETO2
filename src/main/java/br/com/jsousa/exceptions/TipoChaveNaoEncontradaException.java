@@ -1,7 +1,7 @@
 package br.com.jsousa.exceptions;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  */
 public class TipoChaveNaoEncontradaException extends Exception {
 

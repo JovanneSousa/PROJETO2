@@ -26,7 +26,7 @@ import br.com.jsousa.exceptions.TipoChaveNaoEncontradaException;
 import br.com.jsousa.exceptions.TipoElementoNaoConhecidoException;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  * Classe genérica que implementa interface genérica com os métodos de CRUD
  */

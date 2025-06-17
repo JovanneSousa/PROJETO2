@@ -7,7 +7,7 @@ import br.com.jsousa.dao.generic.IGenericDAO;
 import br.com.jsousa.domain.Produto;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public interface IProdutoDAO extends IGenericDAO<Produto, String>{

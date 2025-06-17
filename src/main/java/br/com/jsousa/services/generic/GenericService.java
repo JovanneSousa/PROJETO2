@@ -14,7 +14,7 @@ import br.com.jsousa.exceptions.TableException;
 import br.com.jsousa.exceptions.TipoChaveNaoEncontradaException;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public abstract class GenericService<T extends Persistente, E extends Serializable> 

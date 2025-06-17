@@ -3,7 +3,7 @@ package anotacao;
 import java.lang.annotation.*;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  */
 @Documented
 @Target(ElementType.FIELD)

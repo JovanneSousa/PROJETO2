@@ -16,7 +16,7 @@ import br.com.jsousa.services.ClienteService;
 import br.com.jsousa.services.IClienteService;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ClienteServiceTest {

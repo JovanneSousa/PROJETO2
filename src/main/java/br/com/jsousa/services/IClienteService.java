@@ -5,11 +5,10 @@ package br.com.jsousa.services;
 
 import br.com.jsousa.domain.Cliente;
 import br.com.jsousa.exceptions.DAOException;
-import br.com.jsousa.exceptions.TipoChaveNaoEncontradaException;
 import br.com.jsousa.services.generic.IGenericService;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public interface IClienteService extends IGenericService<Cliente, Long> {

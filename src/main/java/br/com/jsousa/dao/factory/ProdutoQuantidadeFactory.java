@@ -10,7 +10,7 @@ import br.com.jsousa.domain.Produto;
 import br.com.jsousa.domain.ProdutoQuantidade;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ProdutoQuantidadeFactory {

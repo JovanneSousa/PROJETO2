@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import br.com.jsousa.domain.Cliente;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ClienteFactory {

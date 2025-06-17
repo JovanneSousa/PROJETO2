@@ -9,7 +9,7 @@ import anotacao.ColunaTabela;
 import anotacao.Tabela;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 @Tabela("TB_PRODUTO_QUANTIDADE")

@@ -11,7 +11,7 @@ import br.com.jsousa.exceptions.DAOException;
 import br.com.jsousa.exceptions.TipoChaveNaoEncontradaException;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public interface IGenericService <T extends Persistente, E extends Serializable> {

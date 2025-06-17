@@ -1,7 +1,7 @@
 package br.com.jsousa.dao;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  * Classe que representa todas as entidades ou objetos da aplicação que seram salvas no banco de dados
  */

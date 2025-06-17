@@ -5,12 +5,11 @@ package br.com.jsousa.dao;
 
 import java.util.Collection;
 
-import br.com.jsousa.dao.IProdutoDAO;
 import br.com.jsousa.domain.Produto;
 import br.com.jsousa.exceptions.TipoChaveNaoEncontradaException;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ProdutoDaoMock implements IProdutoDAO {

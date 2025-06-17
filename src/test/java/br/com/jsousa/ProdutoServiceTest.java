@@ -18,7 +18,7 @@ import br.com.jsousa.services.IProdutoService;
 import br.com.jsousa.services.ProdutoService;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ProdutoServiceTest {

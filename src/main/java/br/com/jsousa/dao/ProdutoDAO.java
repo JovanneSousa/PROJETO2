@@ -3,16 +3,14 @@
  */
 package br.com.jsousa.dao;
 
-import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 import br.com.jsousa.dao.generic.GenericDAO;
 import br.com.jsousa.domain.Produto;
-import br.com.jsousa.exceptions.DAOException;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ProdutoDAO extends GenericDAO<Produto, String> implements IProdutoDAO {

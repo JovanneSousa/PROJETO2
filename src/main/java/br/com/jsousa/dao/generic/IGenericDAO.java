@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.util.Collection;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  * Interface genérica para métodos de CRUD(Create, Read, Update and Delete)
  */

@@ -10,7 +10,7 @@ import br.com.jsousa.dao.generic.GenericDAO;
 import br.com.jsousa.domain.Cliente;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ClienteDAO extends GenericDAO<Cliente, Long> implements IClienteDAO {

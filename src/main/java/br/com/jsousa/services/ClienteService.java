@@ -8,11 +8,10 @@ import br.com.jsousa.domain.Cliente;
 import br.com.jsousa.exceptions.DAOException;
 import br.com.jsousa.exceptions.MaisDeUmRegistroException;
 import br.com.jsousa.exceptions.TableException;
-import br.com.jsousa.exceptions.TipoChaveNaoEncontradaException;
 import br.com.jsousa.services.generic.GenericService;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ClienteService extends GenericService<Cliente, Long> implements IClienteService {

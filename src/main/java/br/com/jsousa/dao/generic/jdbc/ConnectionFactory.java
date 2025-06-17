@@ -8,7 +8,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ConnectionFactory {

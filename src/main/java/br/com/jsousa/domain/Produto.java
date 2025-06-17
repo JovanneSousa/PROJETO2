@@ -11,7 +11,7 @@ import anotacao.TipoChave;
 import br.com.jsousa.dao.Persistente;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 @Tabela("TB_PRODUTO")

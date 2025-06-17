@@ -23,7 +23,7 @@ import br.com.jsousa.exceptions.TableException;
 import br.com.jsousa.exceptions.TipoChaveNaoEncontradaException;
 
 /**
- * @author rodrigo.pires
+ * @author jovane.sousa
  *
  */
 public class ProdutoDAOTest {

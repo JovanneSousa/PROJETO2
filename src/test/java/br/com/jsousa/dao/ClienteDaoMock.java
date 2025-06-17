@@ -2,10 +2,12 @@ package br.com.jsousa.dao;
 
 import java.util.Collection;
 
-import br.com.jsousa.dao.IClienteDAO;
 import br.com.jsousa.domain.Cliente;
 import br.com.jsousa.exceptions.TipoChaveNaoEncontradaException;
-
+/**
+ * @author jovane.sousa
+ *
+ */
 public class ClienteDaoMock implements IClienteDAO {
 
 	@Override
